@@ -1,0 +1,9 @@
+{
+  "name": "Exam Analyzer Pro",
+  "short_name": "Exam Analyzer",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#091321",
+  "theme_color": "#0b1527",
+  "icons": []
+}
